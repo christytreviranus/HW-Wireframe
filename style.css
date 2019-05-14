@@ -42,12 +42,13 @@ nav {
     height: 200px;
 }
 
-.footer {
+footer {
     background: #ebebeb;
     text-align: center;
-    height: 100px;
+    height: 80px;
     width: 960px;
     margin-top: 20px;
+    padding-top: 20px;
 }
 
 .container {
